@@ -40,6 +40,10 @@
   max-width: 600px;
   margin: 0px 15px;
   min-height: 680px;
+  /* gap: 20px; */
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }
 .app_main_top{
   /* background-color: darkgoldenrod; */
@@ -117,11 +121,12 @@ button:hover {
 #search_result_title{
   color: #9c9c9c;
   font-size: 20px;
+  /* background-color: darkcyan; */
 }
 
 .results {
-  /* margin-top: 20px; */
-  padding-top: 15px;
+  /* margin-top: 20px;
+  padding-top: 15px; */
   display: flex;
   flex-direction: column;
   gap: 15px;

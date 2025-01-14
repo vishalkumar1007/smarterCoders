@@ -25,7 +25,77 @@ function App() {
                 <h3>Enterprise Solutions</h3>
                 <p>AI-powered automation tools for enterprise. Streamline your workflow with intelligent solutions.</p>
              </div>`,
-    }
+    },
+    {
+      title: "AI-powered automation tools for enterprise.",
+      description: "Streamline your workflow with intelligent solutions.",
+      path: "/products",
+      match: "78%",
+      html: `<div class="et_pb_text_inner">
+                <h3>Enterprise Solutions</h3>
+                <p>AI-powered automation tools for enterprise. Streamline your workflow with intelligent solutions.</p>
+             </div>`,
+    },
+    {
+      title: "AI-powered automation tools for enterprise.",
+      description: "Streamline your workflow with intelligent solutions.",
+      path: "/products",
+      match: "78%",
+      html: `<div class="et_pb_text_inner">
+                <h3>Enterprise Solutions</h3>
+                <p>AI-powered automation tools for enterprise. Streamline your workflow with intelligent solutions.</p>
+             </div>`,
+    },
+    {
+      title: "AI-powered automation tools for enterprise.",
+      description: "Streamline your workflow with intelligent solutions.",
+      path: "/products",
+      match: "78%",
+      html: `<div class="et_pb_text_inner">
+                <h3>Enterprise Solutions</h3>
+                <p>AI-powered automation tools for enterprise. Streamline your workflow with intelligent solutions.</p>
+             </div>`,
+    },
+    {
+      title: "AI-powered automation tools for enterprise.",
+      description: "Streamline your workflow with intelligent solutions.",
+      path: "/products",
+      match: "78%",
+      html: `<div class="et_pb_text_inner">
+                <h3>Enterprise Solutions</h3>
+                <p>AI-powered automation tools for enterprise. Streamline your workflow with intelligent solutions.</p>
+             </div>`,
+    },
+    {
+      title: "AI-powered automation tools for enterprise.",
+      description: "Streamline your workflow with intelligent solutions.",
+      path: "/products",
+      match: "78%",
+      html: `<div class="et_pb_text_inner">
+                <h3>Enterprise Solutions</h3>
+                <p>AI-powered automation tools for enterprise. Streamline your workflow with intelligent solutions.</p>
+             </div>`,
+    },
+    {
+      title: "AI-powered automation tools for enterprise.",
+      description: "Streamline your workflow with intelligent solutions.",
+      path: "/products",
+      match: "78%",
+      html: `<div class="et_pb_text_inner">
+                <h3>Enterprise Solutions</h3>
+                <p>AI-powered automation tools for enterprise. Streamline your workflow with intelligent solutions.</p>
+             </div>`,
+    },
+    {
+      title: "AI-powered automation tools for enterprise.",
+      description: "Streamline your workflow with intelligent solutions.",
+      path: "/products",
+      match: "78%",
+      html: `<div class="et_pb_text_inner">
+                <h3>Enterprise Solutions</h3>
+                <p>AI-powered automation tools for enterprise. Streamline your workflow with intelligent solutions.</p>
+             </div>`,
+    },
   ]);
   const [previewStates, setPreviewStates] = useState(
     new Array(results.length).fill(false)
